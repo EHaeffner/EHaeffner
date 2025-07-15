@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 I am currently working on an MMORPG Project. I'll have more information in a bit!
+
+If you with to contact me, reach me on discord at veryuniqueusername3746
 <!--
 **EHaeffner/EHaeffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
